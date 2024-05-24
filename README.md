@@ -5,10 +5,6 @@ This project is a prototype of a vehicle crash detection and alert system that u
 ## Hardware Requirements
 
 - Arduino Uno board
-- TinyGPS++ library
-- SoftwareSerial library
-- I2Cdev library
-- MPU6050 library
 - GPS module (SIM28ML)
 - GSM module (SIM900)
 - Buzzer (optional)
